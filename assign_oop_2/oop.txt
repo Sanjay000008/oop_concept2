@@ -1,0 +1,27 @@
+Python Object:
+
+Anything that has state and behavior can be termed as an Object, be it physical or logical. An Object is an entity mentioned in OOPs concept and is frequently found in Python codes.
+
+ Python Class:
+
+A collection of Objects is termed as Class in OOPs concept. Every class has its own unique and distinguishable attributes and methods.
+
+Python Method:
+
+Method is similar to a function. It is just a name given to a function associated with an object. That is, in OOPs concept function is termed as Method. In Python, object of any type can have methods which is not necessarily unique to any class instance.
+
+Inheritance:
+
+The property of acquiring all the properties and behaviors of the parent object by an object is termed as inheritance in OOPs. This is a unique feature in object oriented programming languages which facilitates reusability of the code of the parent class by the derived class.
+
+Polymorphism:
+
+OOPs is based on the principle of Polymorphism, which means, that one task can be performed in many ways.
+
+Encapsulation:
+
+OOPs restrict direct access to its methods and variables by encapsulating the code and data together.
+
+Data Abstraction
+
+OOPS Data Abstraction feature is used for hiding internal details and showing the functionality only.
